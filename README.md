@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ovovwe
 - 👀 I’m interested in Web & Mobile App. Development
-- 🌱 I’m currently learning NodeJs
-- 💞️ I’m looking to collaborate on Web & Mobile App. Development using HTML, CSS, JavaScript, PHP, NodeJs, Android Studio, XML MySql etc.
+- 💞️ I’m looking to collaborate on Web & Mobile App. Development using HTML, CSS, JavaScript, PHP, Node.js & Express.js, Android Studio, XML MySql etc.
 - 📫 How to reach me: nelson.ogueh@gmail.com or nelsonovovwe@gmail.com
 
 <!---
